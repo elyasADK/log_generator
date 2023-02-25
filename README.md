@@ -1,1 +1,1 @@
-a sample docker image to generate sample log for your tests
+a sample docker image to generate sample JSON logs for your tests
